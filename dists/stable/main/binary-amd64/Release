@@ -1,0 +1,5 @@
+Component: main
+Origin: CIPHER Linux
+Label: CIPHER Linux
+Architecture: amd64
+Description: CIPHER Linux official package repository

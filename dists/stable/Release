@@ -1,0 +1,19 @@
+Origin: CIPHER Linux
+Label: CIPHER Linux
+Codename: stable
+Date: Thu, 20 Aug 2026 07:59:21 UTC
+Architectures: amd64
+Components: main
+Description: CIPHER Linux official package repository
+MD5Sum:
+ ba9372327d7ce003d69dcb336ea1eaa6 4243 main/binary-amd64/Packages
+ 794abd4ff974e21839597db56ff7db54 1618 main/binary-amd64/Packages.gz
+ b6ad0d29a8e4155e90ff5a888ea8925d 131 main/binary-amd64/Release
+SHA1:
+ cc6939cbc2faefcc80b68e682b753b0dd9245a53 4243 main/binary-amd64/Packages
+ b4f96e42d3d9e7c4778808f93d2f31442bd2f7d5 1618 main/binary-amd64/Packages.gz
+ fd36a95d150117dda3fab219f4dbc3e172e8c54e 131 main/binary-amd64/Release
+SHA256:
+ 52cf7915699aea83f305cb2c0c94edbd8d97e7e6ae6043328a78e628e919f525 4243 main/binary-amd64/Packages
+ a3ffe7460f730e5d3e11433c23ce85bc7143efeb512107731031739ed00941aa 1618 main/binary-amd64/Packages.gz
+ ce7bf97840d76b39e043ad2e53a313845bfcc5486bbb3760660bfe043ce3161b 131 main/binary-amd64/Release

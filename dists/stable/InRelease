@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: CIPHER Linux
+Label: CIPHER Linux
+Codename: stable
+Date: Thu, 20 Aug 2026 07:59:21 UTC
+Architectures: amd64
+Components: main
+Description: CIPHER Linux official package repository
+MD5Sum:
+ ba9372327d7ce003d69dcb336ea1eaa6 4243 main/binary-amd64/Packages
+ 794abd4ff974e21839597db56ff7db54 1618 main/binary-amd64/Packages.gz
+ b6ad0d29a8e4155e90ff5a888ea8925d 131 main/binary-amd64/Release
+SHA1:
+ cc6939cbc2faefcc80b68e682b753b0dd9245a53 4243 main/binary-amd64/Packages
+ b4f96e42d3d9e7c4778808f93d2f31442bd2f7d5 1618 main/binary-amd64/Packages.gz
+ fd36a95d150117dda3fab219f4dbc3e172e8c54e 131 main/binary-amd64/Release
+SHA256:
+ 52cf7915699aea83f305cb2c0c94edbd8d97e7e6ae6043328a78e628e919f525 4243 main/binary-amd64/Packages
+ a3ffe7460f730e5d3e11433c23ce85bc7143efeb512107731031739ed00941aa 1618 main/binary-amd64/Packages.gz
+ ce7bf97840d76b39e043ad2e53a313845bfcc5486bbb3760660bfe043ce3161b 131 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEESd/SsyavNWSCVdWTKyx7XqAeUtwFAmqGs9kACgkQKyx7XqAe
+UtwyxQ/+Oq8wbKUxt6QB093C9h7dgWY02wrW0gFu3o/QCA6WDqU3GXXVTpF5dcMM
+vwmCamQqXOl1/VXdi8a8PqA+pL7mXkpZGe4AjPNZAOTrhwcoTXWHcijnydOBrfLc
+w9AcTAOUg9+OJFDy3BwMWfcD2bqWe1g4+wtxokMkQPwTbuvD5nx8FtQT8fJ/VJ3x
+cpGE3c+lZ83ttY+IMQlpMrQtrqiB4/msS6ZkzsqCeOHWw3NHDcwRDFnypSZOeOte
+m0yUAnigxnDpX2TSmy44jXjO2abUCD+jiAV5Y9BI0KTMbV+2uFO1RrTJWTb107yw
+eaMT5TA3RWD+iX10GGU1HJ78DGBrPFMB09DppscFnDxz+kiMF7g03WWsd8cr6OaQ
+WgUWfB1z0ZKUoOWQlEHtKo+PDnyejOI2Ok9AmO/5qgWDdlaYeLblZJXfvgopobUq
+fGiVWDA/QNEtN02PSCdutoymd+us+QumxfJ3x8Qly2u/9h1/XXpd3T6prO0Vz03Z
+K7Z/73qHzRXaEj2nJOrdkPTLjgnhpq5y1Y1YLkscNSdpcV+JxORhyN6MTSv9U/TU
+TIqte97qx4NhCbEerIIiq1rJAQY46vLTHCmeqqYNEn8rCLazYUI19eJlbRpe5bfE
+K/gFc9cmUPo9CgFauQ056Zh2AikttqDntAr20jgDd2L7xNbVibU=
+=mQt+
+-----END PGP SIGNATURE-----
