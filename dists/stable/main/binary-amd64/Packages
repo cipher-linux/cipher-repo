@@ -1,31 +1,31 @@
 Package: cipher-admin
-Version: 1.0
+Version: 1.1
 Architecture: amd64
-Depends: ncdu, tmux, rsync, tree, bat, lsof, iotop, ufw, gufw, timeshift
-Maintainer: CIPHER Linux <team@cipherlinux.org>
+Depends: ncdu, tmux, rsync, tree, bat, lsof, iotop, ufw, gufw, timeshift, gparted
+Maintainer: CIPHER Linux <sachinshady6@gmail.com>
 Priority: optional
 Section: metapackages
-Filename: pool/main/c/cipher-admin/cipher-admin_1.0_amd64.deb
-Size: 816
-SHA256: 29f8c69f5acea09eae1c1dc3eef3f46fa373a34a4e88e2cba5fcc99432a4d671
-SHA1: cfdd780b3491a9348e3dbeee6576e59ce5ba1f3e
-MD5sum: 499c2e1420216d2d8c3d43a82441594e
+Filename: pool/main/c/cipher-admin/cipher-admin_1.1_amd64.deb
+Size: 824
+SHA256: 63fe2b920c79d97cfc0d66ac7fae8e67f7373ba78c3aa94db8e7b686b7c156ab
+SHA1: 4a2d380663060130c39d51dc3aa24a4d4b01ec99
+MD5sum: 9b2320f9bb135bd383331545720d0275
 Description: CIPHER Linux sysadmin toolkit
  Installs core system administration tools for CIPHER Linux users
  learning Linux system administration fundamentals.
 
 Package: cipher-dev
-Version: 1.0
+Version: 1.1
 Architecture: amd64
-Depends: build-essential, python3-pip, python3-venv, default-jdk
-Maintainer: CIPHER Linux <team@cipherlinux.org>
+Depends: build-essential, python3-pip, python3-venv, default-jdk, nodejs, npm
+Maintainer: CIPHER Linux <sachinshady6@gmail.com>
 Priority: optional
 Section: metapackages
-Filename: pool/main/c/cipher-dev/cipher-dev_1.0_amd64.deb
-Size: 820
-SHA256: 64bca7d1145acc2e492ddabe47521f5742b902cf5b5bb204cab54deb2d8e02ac
-SHA1: 0d149a08d0ff7c77cebf82beb18bbc75ef5eb2d1
-MD5sum: b1286ec6027815aa9dc7d277f31d190c
+Filename: pool/main/c/cipher-dev/cipher-dev_1.1_amd64.deb
+Size: 828
+SHA256: 13ddba2e507f1ca037cd791bfca669cbf706fb008836496d2ba1c5c809c8e0f1
+SHA1: 4acf6a9594fa8fd51e38f93f3cd52cbd675dc47f
+MD5sum: cf5a3347d3279aa614b0628554c08c08
 Description: CIPHER Linux development toolkit
  Installs core development tools and language runtimes for CIPHER
  Linux users learning software development fundamentals.
@@ -47,17 +47,17 @@ Description: CIPHER Linux DevOps toolkit
  learning DevOps fundamentals.
 
 Package: cipher-forensics
-Version: 1.0
+Version: 1.1
 Architecture: amd64
-Depends: binwalk, exiftool, steghide, foremost, sleuthkit, hexedit, bulk-extractor
+Depends: binwalk, exiftool, steghide, foremost, sleuthkit, hexedit
 Maintainer: CIPHER Linux <team@cipherlinux.org>
 Priority: optional
 Section: metapackages
-Filename: pool/main/c/cipher-forensics/cipher-forensics_1.0_amd64.deb
-Size: 832
-SHA256: 94fa4d1fa5ab67238560a07cb6db435d134ee1d27c8d6c354566f319778b7e96
-SHA1: 2365393f6812dc5e0db9831da5bd3a3644d091e1
-MD5sum: 2ce8097c820915da054c7e8ad52571bd
+Filename: pool/main/c/cipher-forensics/cipher-forensics_1.1_amd64.deb
+Size: 816
+SHA256: 67227292111c4f455df8f6ae502699e80edae60995767d4d95424ea8299f0733
+SHA1: fd1243075bfb8eee8cac4d24d73e169abf0bd9ad
+MD5sum: c926b3c65456037138f0a00a5d449825
 Description: CIPHER Linux forensics toolkit
  Installs digital forensics and CTF-style analysis tools for CIPHER
  Linux users learning forensics fundamentals.
@@ -79,17 +79,17 @@ Description: CIPHER Linux networking toolkit
  learning networking fundamentals.
 
 Package: cipher-security
-Version: 1.0
+Version: 1.1
 Architecture: amd64
-Depends: john, hydra, nikto, keepassxc, tor, clamav, rkhunter, lynis
-Maintainer: CIPHER Linux <team@cipherlinux.org>
+Depends: john, hydra, nikto, keepassxc, tor, clamav, rkhunter, lynis, gobuster, sqlmap
+Maintainer: CIPHER Linux <sachinshady6@gmail.com>
 Priority: optional
 Section: metapackages
-Filename: pool/main/c/cipher-security/cipher-security_1.0_amd64.deb
-Size: 828
-SHA256: e252227f02ca92a3ff6c42b806f1f7e185b1bc01ef82fdc7846019689e51ca9c
-SHA1: 5bf2337800327c81ff7c92036de9d1ae385fab2d
-MD5sum: f7d486e266c7cc19b187698dddf55a21
+Filename: pool/main/c/cipher-security/cipher-security_1.1_amd64.deb
+Size: 840
+SHA256: d0e7228c6034dcfbbf9b379a5c24e18da7b4d112622531ca5cd14edf8c1553de
+SHA1: 5a52f0239186fe68dd10cb57dfaab3f09c7ee9fc
+MD5sum: cc6483cff9375db1dd2dd5f884a7520f
 Description: CIPHER Linux beginner security toolkit
  Installs a curated, beginner-friendly set of cybersecurity tools for
  CIPHER Linux users learning security fundamentals.
